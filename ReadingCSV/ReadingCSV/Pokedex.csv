@@ -1,0 +1,13 @@
+Pokemon,HP,Strength,Defense,Speed,Move,Attribute,Attribute
+Pikachu,200,90,30,50,Thunderbolt,Electric,
+Lugia,200,100,90,90,Aeroblast,Psychic,Flying
+Charizard,200,130,78,100,Blue Flare,Fire,Flying
+Cubone,120,50,30,200,Bonemerang,Ground,
+Bulbasaur,49,25,49,80,Bullet Seed,Grass,
+Hypno,125,50,70,67,Confusion,Psychic,
+Onix,200,100,150,20,Diamond Storm,Ground,
+Exeggcute,60,100,10,100,Crush Claw,Grass,Psychic
+Ho-Oh,200,120,90,90,Flare Blitz,Fire,Flying
+Lugia,150,120,100,120,Heart Stamp,Psychic,Flying
+Pikachu,100,110,30,120,Thunder,Electric,
+Raichu,160,120,60,120,Volt Tackle,Electric,
